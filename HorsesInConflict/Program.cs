@@ -53,6 +53,9 @@ class Program
             // Imprimir resultado
             Console.Write("Analizando Caballo en " + posOut + " =>");
 
+            conflictos.Sort();
+            conflictos.Reverse();
+
             for (int k = 0; k < conflictos.Count; k++)
             {
                 Console.Write(" Conflicto con " + conflictos[k]);
