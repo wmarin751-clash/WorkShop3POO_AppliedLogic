@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/Exercise01/">
-    <Project Path="TheStrongestBeams/TheStrongestBeams.csproj" Id="cff5516f-4cb1-47b5-944d-80917f9eada4" />
+    <Project Path="TheStrongestBeams/TheStrongestBeam.csproj" Id="cff5516f-4cb1-47b5-944d-80917f9eada4" />
   </Folder>
   <Folder Name="/Exercise02/">
     <Project Path="HorsesInConflict/HorsesInConflict.csproj" Id="266a6a27-655d-4dca-90f0-d48d93afb4f8" />
