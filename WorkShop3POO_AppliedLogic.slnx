@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="WorkShop3POO_AppliedLogic/WorkShop3POO_AppliedLogic.csproj" />
+  <Folder Name="/Exercise01/">
+    <Project Path="TheStrongestBeams/TheStrongestBeams.csproj" Id="cff5516f-4cb1-47b5-944d-80917f9eada4" />
+  </Folder>
 </Solution>
